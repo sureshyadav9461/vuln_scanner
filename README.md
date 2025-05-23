@@ -39,6 +39,12 @@ robots.txt
 uploads
 backup
 
+output sample
+[FOUND] https://testphp.vulnweb.com/admin
+[FORBIDDEN] https://testphp.vulnweb.com/.git
+[NOT FOUND] https://testphp.vulnweb.com/config.php
+
+⚠️ Disclaimer
 This tool is made for educational purposes only.
 Do NOT use it to scan websites without permission.
 The creator is not responsible for any misuse.
