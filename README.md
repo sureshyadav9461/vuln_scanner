@@ -1,6 +1,6 @@
-# vuln_scanner
+# directory_scanner
 "A basic web vulnerability scanner using Python"
-# 🔍 Web Vulnerability Scanner (Python)
+# 🔍 Web directory scanner (Python)
 
 This is a beginner-friendly Python-based tool that scans a target website for common hidden or sensitive paths such as `/admin`, `/login`, `.git`, etc.
 
